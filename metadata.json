@@ -1,0 +1,6 @@
+{
+  "name": "JFLY – Football 11 vs 11",
+  "description": "Jeu de football 3D réaliste 11 vs 11 sur mobile avec match rapide, championnat, tournoi de coupe, carrière et personnalisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
